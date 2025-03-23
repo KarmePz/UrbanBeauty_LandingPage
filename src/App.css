@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --font-Monserrat: "Monserrat", "sans-serif";
+  --font-GreatVibes: "Great Vibes", cursive;
+  --font-CormorantGaramond: "Cormorant Garamond", serif;
+
+}
+
