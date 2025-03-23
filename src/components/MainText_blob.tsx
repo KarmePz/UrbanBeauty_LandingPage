@@ -14,7 +14,7 @@ const Maintext_Blob = () => {
             <img src="/public/images/woman_2.jpg" alt="mujer 2"  className="absolute w-60 h-auto rounded-[40px] top-[30%] right-70"/>
             <img src="/public/images/woman_3.jpg" alt="mujer 3"  className="absolute w-60 h-auto rounded-[40px] top-20"/>
         </div>
-        sdaf
+        
         </>
     )
 
